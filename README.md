@@ -190,13 +190,17 @@ Data Pre-Processing
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/2ed63905-4c35-4922-b1cf-4b8284be19bf)
 
-Which ship mode is profitable?
+
+# Which ship mode is profitable?
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/d39d8d04-75a5-4a77-931d-180d462fb281)
 
 
-Sales of the product based on region.
+# Sales of the product based on region.
+
+
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/ab7ec56f-d542-4de2-b7b1-1248f287aded)
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/c51236e8-917e-446e-ad6a-1d0cace118a9)
 
@@ -206,29 +210,36 @@ Find the relation between sales and profit
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/555c281b-6659-4976-aa3f-b52e2e5da20b)
 
 
-Find the relation between sales and profit based on the following category.
+# Find the relation between sales and profit based on the following category.
 
-Segment
+# Segment
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/e918829a-811e-4fa1-86b5-c56cd9015d93)
 
 
-City
+
+# City
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/bcb5098f-14c6-4aaf-a4ac-50ddafe93239)
 
 
-States
+# States
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/44d9d4b2-6725-4155-ba64-bf2476a8228f)
 
 
-Segment and Ship Mode
+# Segment and Ship Mode
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/1ff49213-75af-459d-b35f-0e17cb4c259f)
 
 
-Segment, Ship mode and Region
+
+# Segment, Ship mode and Region
+
 
 ![image](https://github.com/Hemasonica774/Ex-08-Data-Visualization-/assets/118361409/15fa86be-500f-477d-ae62-6cb3c1570a6e)
 
